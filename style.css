@@ -1,0 +1,30 @@
+body{
+    background-color: light gray;
+}
+
+.cartão{
+    width: 300px;
+    background-color: white;
+    padding: centered;
+    margin: auto;
+    border-radius: 15;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-size: larger;
+}
+
+p{
+    color: rgb(0, 47, 255);
+    font-size: larger;
+}
+
+button{
+    background-color: aquamarine;
+    color: beige;
+    padding: 35;
+    border: 15px;
+    border-radius: 25;
+}
